@@ -78,7 +78,7 @@ artifacts/
 ScaffoldingReadMe.txt
 
 # Ia Keys
-appsettings.json
+appsettingsIaBot.json
 
 # StyleCop
 StyleCopReport.xml
