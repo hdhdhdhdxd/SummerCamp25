@@ -77,6 +77,9 @@ artifacts/
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
+# Ia Keys
+appsettings.json
+
 # StyleCop
 StyleCopReport.xml
 
